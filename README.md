@@ -19,10 +19,12 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
