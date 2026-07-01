@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
