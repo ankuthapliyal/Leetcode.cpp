@@ -23,6 +23,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -70,6 +71,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -86,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
