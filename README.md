@@ -23,6 +23,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1288-remove-covered-intervals](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
+| [1288-remove-covered-intervals](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
