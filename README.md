@@ -34,6 +34,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,4 +144,9 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
