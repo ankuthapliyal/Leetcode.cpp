@@ -10,6 +10,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3312-sorted-gcd-pair-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -81,6 +83,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -94,6 +97,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
