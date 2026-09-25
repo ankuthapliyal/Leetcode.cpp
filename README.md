@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -33,6 +34,7 @@
 | [0125-valid-palindrome](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1927-sum-game) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -174,6 +178,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -353,6 +358,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
