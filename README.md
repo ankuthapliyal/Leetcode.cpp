@@ -36,6 +36,7 @@
 | [0022-generate-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0940-distinct-subsequences-ii) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -191,6 +193,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2812-find-the-safest-path-in-a-grid) |
