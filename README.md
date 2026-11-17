@@ -308,6 +308,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0836-rectangle-overlap) |
@@ -455,6 +456,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -497,6 +499,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankuthapliyal/Leetcode.cpp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
 |  |
